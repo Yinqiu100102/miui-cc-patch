@@ -1,0 +1,4 @@
+*.apk
+*.dex
+dump*.txt
+__pycache__/
